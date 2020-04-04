@@ -17,5 +17,16 @@ The <strong>second</strong> one uses the Math.random method to generate any rand
 
 <h3>Screenshots:</h3>
 
+![Capture](https://user-images.githubusercontent.com/40691059/78458688-1f9ba280-76ab-11ea-9b9b-40c78e1b3398.PNG)
+
+![Capture1](https://user-images.githubusercontent.com/40691059/78458690-21656600-76ab-11ea-9317-c880d80ad44e.PNG)
+
+![Capture2](https://user-images.githubusercontent.com/40691059/78458691-21656600-76ab-11ea-993d-7be3ae2a1d24.PNG)
+
+![Capture3](https://user-images.githubusercontent.com/40691059/78458692-21fdfc80-76ab-11ea-95b5-0ed6258ce193.PNG)
+
+![Capture4](https://user-images.githubusercontent.com/40691059/78458694-22969300-76ab-11ea-8d55-bed6637bd52a.PNG)
+
+
 
 
