@@ -13,7 +13,7 @@ The <strong>second</strong> one uses the Math.random method to generate any rand
 - HTML
 - JavaScript
 - GitHub 
-- Netlify
+
 
 <h3>Screenshots:</h3>
 
